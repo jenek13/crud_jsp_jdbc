@@ -1,4 +1,4 @@
-CREATE DATABASE 'demo';
+CREATE DATABASE demo;
 USE demo;
 
 create table users (
