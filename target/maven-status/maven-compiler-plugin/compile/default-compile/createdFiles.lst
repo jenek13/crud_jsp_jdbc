@@ -1,3 +1,10 @@
-net\javaguides\usermanagement\web\UserServlet.class
-net\javaguides\usermanagement\dao\UserDAO.class
-net\javaguides\usermanagement\model\User.class
+javaguides\usermanagement\DBService.class
+javaguides\usermanagement\dao\UserDAO.class
+javaguides\usermanagement\web\ReadServlet.class
+javaguides\usermanagement\InterfaceDBService.class
+javaguides\usermanagement\web\UpdateServlet.class
+javaguides\usermanagement\web\DeleteServlet.class
+javaguides\usermanagement\web\CreateServlet.class
+javaguides\usermanagement\dao\InterfaceDAO.class
+javaguides\usermanagement\model\User.class
+javaguides\usermanagement\util\DBHelper.class

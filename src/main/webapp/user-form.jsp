@@ -45,18 +45,10 @@
                 </td>
             </tr>
             <tr>
-                <th>User Email: </th>
+                <th>User Age: </th>
                 <td>
-                	<input type="text" name="email" size="45"
-                			value="<c:out value='${user.email}' />"
-                	/>
-                </td>
-            </tr>
-            <tr>
-                <th>Country: </th>
-                <td>
-                	<input type="text" name="country" size="15"
-                			value="<c:out value='${user.country}' />"
+                	<input type="text" name="age" size="45"
+                			value="<c:out value='${user.age}' />"
                 	/>
                 </td>
             </tr>

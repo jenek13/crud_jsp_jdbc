@@ -1,3 +1,10 @@
-C:\jsp-servlet-jdbc-mysql-crud-tutorial\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\dao\UserDAO.java
-C:\jsp-servlet-jdbc-mysql-crud-tutorial\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\web\UserServlet.java
-C:\jsp-servlet-jdbc-mysql-crud-tutorial\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\model\User.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\web\UpdateServlet.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\util\DBHelper.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\web\CreateServlet.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\web\DeleteServlet.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\model\User.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\dao\UserDAO.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\InterfaceDBService.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\web\ReadServlet.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\dao\InterfaceDAO.java
+C:\myexample\jsp-servlet-jdbc-mysql-crud-tutorial\src\main\java\javaguides\usermanagement\DBService.java

@@ -1,4 +1,4 @@
-package net.javaguides.usermanagement.model;
+package javaguides.usermanagement.model;
 
 /**
  * User.java
@@ -9,49 +9,45 @@ package net.javaguides.usermanagement.model;
 public class User {
 	protected int id;
 	protected String name;
-	protected String email;
-	protected String country;
-	
+	protected int age;
+
 	public User() {
 	}
-	
-	public User(String name, String email, String country) {
-		super();
-		this.name = name;
-		this.email = email;
-		this.country = country;
-	}
 
-	public User(int id, String name, String email, String country) {
-		super();
+	public User(int id, String name, int age) {
 		this.id = id;
 		this.name = name;
-		this.email = email;
-		this.country = country;
+		this.age = age;
 	}
+
+	public User(String name, int age) {
+		this.name = name;//тут было пусто
+		this.age = age;//тут было пусто
+	}
+
+
 
 	public int getId() {
 		return id;
 	}
-	public void setId(int id) {
-		this.id = id;
-	}
+
 	public String getName() {
 		return name;
 	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getEmail() {
-		return email;
-	}
-	public void setEmail(String email) {
-		this.email = email;
-	}
-	public String getCountry() {
-		return country;
-	}
-	public void setCountry(String country) {
-		this.country = country;
+
+	public void setAge(int age) {
+		this.age = age;
 	}
 }
